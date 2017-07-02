@@ -49,8 +49,7 @@ h1	{
     border: 1px solid black;  
     margin: auto;
     margin-top: -15px;
-   margin-left: 150px;
-
+    margin-left: 150px;
     overflow: auto;
     background-color: lightyellow;
 }
@@ -88,7 +87,6 @@ h1	{
 
 
 
-
 @media(min-width: 992px){
 
 
@@ -96,9 +94,6 @@ h1	{
     width: 300px;
   }
 
-/*  #box2 {
-    width: 300px;
-  }*/
 
   #box3 {
     width: 300px;
@@ -106,7 +101,7 @@ h1	{
 
 
   .p2{
-    width: 25%;
+    width: 50%;
     margin-left: 150px;
   }
 }
